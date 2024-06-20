@@ -19,10 +19,10 @@
 - Confira o enunciado completo, [clicando aqui](problem.md).
 
 ## Como interagir com o banco de dados?
-- Utilizei o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+- Utilizei o [MongoDB Compass](https://www.mongodb.com/products/tools/compass).
 
 ## Como interagir com a API?
-- Utilizei o [Httpie](https://github.com/httpie)
+- Utilizei o [Httpie](https://github.com/httpie).
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
