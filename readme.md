@@ -24,8 +24,6 @@
 ## Como interagir com a API?
 - Utilizei o [Httpie](https://github.com/httpie).
 
-:mag: Baixe o projeto e teste você mesmo na prática.
-
 ## :rocket: Tecnologias utilizadas
 
 * Java 21
@@ -44,12 +42,6 @@
 - Efetuar logs com o SLF4J
 
 ### Lista de tarefas:
-
-**Introdução**:
-
-- [x]  Qual é o desafio que vamos resolver?
-
----
 
 **Comunicação com o banco e dados**:
 
